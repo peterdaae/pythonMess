@@ -4,4 +4,4 @@ class Loops5:
     for ch in user_input_string:
         print(ch)
 
-    print(user_input_string[::-1]) #Reverse
+    print(user_input_string[::-1]) #Reverse of a string
