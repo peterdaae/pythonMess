@@ -1,5 +1,5 @@
-from Lecture2.loops5 import Loops5
+from Lecture3.prime_checker import PrimeChecker
 
-test = Loops5
+run = PrimeChecker
 
-test()
+run()
