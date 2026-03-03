@@ -1,5 +1,5 @@
-from Lecture3.prime_checker import PrimeChecker
+from Lecture3.functions0 import Functions
 
-run = PrimeChecker
+run = Functions
 
 run()
