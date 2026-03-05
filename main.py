@@ -1,5 +1,7 @@
-from Lecture3.functions0 import Functions
+from Lecture4.exercise3 import Exercise3
 
-run = Functions
+run = Exercise3()
 
-run()
+numbers = run.user_input()
+run.rem_middle(numbers)
+
