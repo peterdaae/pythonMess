@@ -41,3 +41,4 @@ class Exercise3:
         print(f"before removal: {list_middle}")
         list_middle.pop(middle_index)
         print(f"after removal: {list_middle}")
+
