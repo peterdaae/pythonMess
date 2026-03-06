@@ -1,8 +1,8 @@
-from Lecture4.exerciseNext1 import ExerciseNext1
+from Lecture5.exercise1 import Exercise1
 
-run = ExerciseNext1()
+lab_obj = Exercise1()
 
-run.run_list_operations()
+lab_obj.run_operations()
 
 
 

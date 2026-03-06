@@ -1,9 +1,9 @@
 class Sets:
     def testSet(self):
-        fruits = {"banana", "apple", "pineapple"} #Declares set of fruits
-        int_array = [1, 2, 3, 4, 5, 1, 1, 5, 3] #Simple array integers
+        fruits = {"banana", "apple", "pineapple"} #Set of string
+        int_array = [1, 2, 3, 4, 5, 1, 1, 5, 3] #Array of integers
         set1 = set() #creates empty set
-        set2 = set(int_array) #puts int_array into
+        set2 = set(int_array) #puts int_array into set
         #stores unique values, removes duplicates
         #Sets are mutable collections of unique values
 
