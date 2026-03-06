@@ -1,8 +1,12 @@
-from Lecture4.exercise5 import Exercise5
+from Lecture4.exerciseNext1 import ExerciseNext1
 
-run = Exercise5()
-l1 = [1, 2, 3, 4]
-l2 = [1, 2, 5, 6]
+run = ExerciseNext1()
 
-run.remove_dupes(l1, l2)
+run.run_list_operations()
+
+
+
+
+
+
 
