@@ -1,13 +1,7 @@
 class Exercise1:
-
-    def _user_input(self):
-        user_input_name = input("Enter name")
-        user_input_age = input("Enter name")
-        user_input_death = input("Enter name")
-
-
     def _reverse_lookup(self):
-
+        person = {"name": "Alice", "age": 30, "city": "Oslo"}
+        address = {"City": "Norway", "Postcode": 1042, "Street address": "Lampvei 2"}
 
 
     def run_operations(self):
