@@ -1,8 +1,8 @@
-from Lecture5.exercise3 import Exercise3
+from Lecture7.exercise1 import Exercise1
 
-lab_obj = Exercise3()
+lab_obj = Exercise1()
 
-lab_obj.read_input()
+lab_obj.vector()
 
 
 

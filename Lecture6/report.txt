@@ -1,0 +1,4 @@
+count    : 4
+min      : -3
+max      : 10
+mean     : 4.75

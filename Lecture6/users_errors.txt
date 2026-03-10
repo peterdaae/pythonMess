@@ -1,0 +1,3 @@
+Line 3: invalid age (ValueError) -> ""
+Line 4: missing name -> ""
+Line 5: underage -> "17"
