@@ -10,7 +10,13 @@ class Exercise1:
         if col_u.shape == (4,1) and col_v.shape == (4,1):
             print("pass")
 
-        res = col_u + col_v
+        res_adding = col_u + col_v
+        res_subtract = col_u - col_v
+        res_multip = 2 * col_u
+        res_square = col_u * col_u
+
+        
+
 
 
 
