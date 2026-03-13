@@ -1,8 +1,8 @@
-from Lecture7.exercise1 import Exercise1
+from Lecture9.numpy_pandas import NumpyPandas
 
-lab_obj = Exercise1()
+lab_obj = NumpyPandas()
 
-lab_obj.vector()
+lab_obj.test()
 
 
 
